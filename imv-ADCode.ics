@@ -1,0 +1,858 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Lecture & Tutorial/Lab (Online via Zoom) AD39838
+DTSTART:20210616T090000
+DTEND:20210616T123000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39838&MOT=2
+LOCATION:AD39838 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39838&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture & Tutorial/Lab (Online via Zoom) AD39839
+DTSTART:20210616T133000
+DTEND:20210616T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39839&MOT=2
+LOCATION:AD39839 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39839&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Study & Self Directed E-Learning (-) AD39840
+DTSTART:20210617T090000
+DTEND:20210617T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39840&MOT=2
+LOCATION:AD39840 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39840&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Study & Self Directed E-Learning (-) AD39840
+DTSTART:20210617T130000
+DTEND:20210617T150000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39840&MOT=2
+LOCATION:AD39840 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39840&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture & Tutorial/Lab (Online via Zoom) AD39841
+DTSTART:20210618T090000
+DTEND:20210618T123000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39841&MOT=2
+LOCATION:AD39841 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39841&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture & Tutorial/Lab (Online via Zoom) AD39842
+DTSTART:20210618T133000
+DTEND:20210618T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39842&MOT=2
+LOCATION:AD39842 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39842&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Study & Self Directed E-Learning (-) AD39843
+DTSTART:20210621T090000
+DTEND:20210621T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39843&MOT=2
+LOCATION:AD39843 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39843&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Study & Self Directed E-Learning (-) AD39843
+DTSTART:20210621T130000
+DTEND:20210621T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39843&MOT=2
+LOCATION:AD39843 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39843&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture & Tutorial/Lab (Online via Zoom) AD39844
+DTSTART:20210622T090000
+DTEND:20210622T123000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39844&MOT=2
+LOCATION:AD39844 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39844&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture & Tutorial/Lab (Online via Zoom) AD39845
+DTSTART:20210622T133000
+DTEND:20210622T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39845&MOT=2
+LOCATION:AD39845 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39845&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Study & Self Directed E-Learning (-) AD39846
+DTSTART:20210623T090000
+DTEND:20210623T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39846&MOT=2
+LOCATION:AD39846 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39846&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Study & Self Directed E-Learning (-) AD39846
+DTSTART:20210623T130000
+DTEND:20210623T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39846&MOT=2
+LOCATION:AD39846 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39846&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture & Tutorial/Lab (Online via Zoom) AD39847
+DTSTART:20210624T090000
+DTEND:20210624T123000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39847&MOT=2
+LOCATION:AD39847 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39847&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture & Tutorial/Lab (Online via Zoom) AD39848
+DTSTART:20210624T133000
+DTEND:20210624T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39848&MOT=2
+LOCATION:AD39848 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39848&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Study & Self Directed E-Learning (-) AD39849
+DTSTART:20210625T090000
+DTEND:20210625T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39849&MOT=2
+LOCATION:AD39849 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39849&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Study & Self Directed E-Learning (-) AD39849
+DTSTART:20210625T130000
+DTEND:20210625T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39849&MOT=2
+LOCATION:AD39849 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39849&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture & Tutorial/Lab (Online via Zoom) AD39850
+DTSTART:20210628T090000
+DTEND:20210628T123000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39850&MOT=2
+LOCATION:AD39850 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39850&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture & Tutorial/Lab (Online via Zoom) AD39851
+DTSTART:20210628T133000
+DTEND:20210628T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39851&MOT=2
+LOCATION:AD39851 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39851&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Study & Self Directed E-Learning (-) AD39852
+DTSTART:20210629T090000
+DTEND:20210629T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39852&MOT=2
+LOCATION:AD39852 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39852&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Study & Self Directed E-Learning (-) AD39852
+DTSTART:20210629T130000
+DTEND:20210629T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39852&MOT=2
+LOCATION:AD39852 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39852&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture & Tutorial/Lab (Online via Zoom) AD39853
+DTSTART:20210630T090000
+DTEND:20210630T123000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39853&MOT=2
+LOCATION:AD39853 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39853&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture & Tutorial/Lab (Online via Zoom) AD39854
+DTSTART:20210630T133000
+DTEND:20210630T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39854&MOT=2
+LOCATION:AD39854 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39854&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Study & Self Directed E-Learning (-) AD39855
+DTSTART:20210701T090000
+DTEND:20210701T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39855&MOT=2
+LOCATION:AD39855 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39855&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Study & Self Directed E-Learning (-) AD39855
+DTSTART:20210701T130000
+DTEND:20210701T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39855&MOT=2
+LOCATION:AD39855 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39855&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39856
+DTSTART:20210702T140000
+DTEND:20210702T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39856&MOT=2
+LOCATION:AD39856 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39856&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Discussion (Online via Zoom) AD39857
+DTSTART:20210705T090000
+DTEND:20210705T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39857&MOT=2
+LOCATION:AD39857 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39857&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39858
+DTSTART:20210706T090000
+DTEND:20210706T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39858&MOT=2
+LOCATION:AD39858 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39858&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39858
+DTSTART:20210706T130000
+DTEND:20210706T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39858&MOT=2
+LOCATION:AD39858 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39858&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39859
+DTSTART:20210707T090000
+DTEND:20210707T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39859&MOT=2
+LOCATION:AD39859 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39859&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39859
+DTSTART:20210707T130000
+DTEND:20210707T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39859&MOT=2
+LOCATION:AD39859 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39859&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39860
+DTSTART:20210708T090000
+DTEND:20210708T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39860&MOT=2
+LOCATION:AD39860 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39860&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39860
+DTSTART:20210708T130000
+DTEND:20210708T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39860&MOT=2
+LOCATION:AD39860 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39860&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midpoint Project Discussion (Online via Zoom) AD39861
+DTSTART:20210709T090000
+DTEND:20210709T123000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39861&MOT=2
+LOCATION:AD39861 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39861&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39862
+DTSTART:20210712T090000
+DTEND:20210712T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39862&MOT=2
+LOCATION:AD39862 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39862&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39862
+DTSTART:20210712T130000
+DTEND:20210712T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39862&MOT=2
+LOCATION:AD39862 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39862&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39863
+DTSTART:20210713T090000
+DTEND:20210713T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39863&MOT=2
+LOCATION:AD39863 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39863&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39863
+DTSTART:20210713T130000
+DTEND:20210713T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39863&MOT=2
+LOCATION:AD39863 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39863&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39864
+DTSTART:20210714T090000
+DTEND:20210714T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39864&MOT=2
+LOCATION:AD39864 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39864&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39864
+DTSTART:20210714T130000
+DTEND:20210714T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39864&MOT=2
+LOCATION:AD39864 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39864&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39865
+DTSTART:20210715T090000
+DTEND:20210715T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39865&MOT=2
+LOCATION:AD39865 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39865&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Group Project Discussion (Team-Arranged) AD39865
+DTSTART:20210715T130000
+DTEND:20210715T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39865&MOT=2
+LOCATION:AD39865 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39865&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Project Presentation (Online via Zoom) AD39866
+DTSTART:20210716T090000
+DTEND:20210716T123000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39866&MOT=2
+LOCATION:AD39866 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39866&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Project Presentation (Online via Zoom) AD39867
+DTSTART:20210716T133000
+DTEND:20210716T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39867&MOT=2
+LOCATION:AD39867 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39867&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Exam Preparation & Practice Exam (-) AD39868
+DTSTART:20210722T090000
+DTEND:20210722T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39868&MOT=2
+LOCATION:AD39868 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39868&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Exam Preparation & Practice Exam (-) AD39868
+DTSTART:20210722T130000
+DTEND:20210722T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39868&MOT=2
+LOCATION:AD39868 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39868&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Exam Preparation & Practice Exam (-) AD39869
+DTSTART:20210723T090000
+DTEND:20210723T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39869&MOT=2
+LOCATION:AD39869 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39869&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Exam Preparation & Practice Exam (-) AD39869
+DTSTART:20210723T130000
+DTEND:20210723T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39869&MOT=2
+LOCATION:AD39869 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39869&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consultation (Online via Zoom) AD39870
+DTSTART:20210727T090000
+DTEND:20210727T124500
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39870&MOT=2
+LOCATION:AD39870 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39870&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Exam Preparation & Practice Exam (-) AD39871
+DTSTART:20210727T134500
+DTEND:20210727T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39871&MOT=2
+LOCATION:AD39871 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39871&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Exam Preparation & Practice Exam (-) AD39872
+DTSTART:20210728T090000
+DTEND:20210728T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39872&MOT=2
+LOCATION:AD39872 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39872&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Exam Preparation & Practice Exam (-) AD39872
+DTSTART:20210728T130000
+DTEND:20210728T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39872&MOT=2
+LOCATION:AD39872 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39872&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Exam Preparation & Practice Exam (-) AD39873
+DTSTART:20210729T090000
+DTEND:20210729T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39873&MOT=2
+LOCATION:AD39873 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39873&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Exam Preparation & Practice Exam (-) AD39873
+DTSTART:20210729T130000
+DTEND:20210729T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39873&MOT=2
+LOCATION:AD39873 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39873&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Exam Preparation & Practice Exam (-) AD39874
+DTSTART:20210730T090000
+DTEND:20210730T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39874&MOT=2
+LOCATION:AD39874 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39874&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Exam Preparation & Practice Exam (-) AD39874
+DTSTART:20210730T130000
+DTEND:20210730T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39874&MOT=2
+LOCATION:AD39874 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39874&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Consultation (Online via Zoom) AD39875
+DTSTART:20210802T090000
+DTEND:20210802T124500
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39875&MOT=2
+LOCATION:AD39875 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39875&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Exam Preparation & Practice Exam (-) AD39876
+DTSTART:20210802T134500
+DTEND:20210802T173000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39876&MOT=2
+LOCATION:AD39876 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39876&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exam (Time Slot to be advised at later date) (-) AD39877
+DTSTART:20210804T090000
+DTEND:20210804T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39877&MOT=2
+LOCATION:AD39877 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39877&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exam (Time Slot to be advised at later date) (-) AD39877
+DTSTART:20210804T130000
+DTEND:20210804T170000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39877&MOT=2
+LOCATION:AD39877 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39877&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exam (2nd Chance) (Time Slot to be advised at later date) (-) AD39
+ 878
+DTSTART:20210806T090000
+DTEND:20210806T130000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39878&MOT=2
+LOCATION:AD39878 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39878&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exam (2nd Chance) (Time Slot to be advised at later date) (-) AD39
+ 878
+DTSTART:20210806T130000
+DTEND:20210806T170000
+DESCRIPTION:https://www.myskillsfuture.gov.sg/content/portal/en/individual
+ /take-attendance.html?attendanceCode=AD39878&MOT=2
+LOCATION:AD39878 https://www.myskillsfuture.gov.sg/content/portal/en/indiv
+ idual/take-attendance.html?attendanceCode=AD39878&MOT=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H00M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
