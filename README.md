@@ -1,9 +1,6 @@
-# Present
-In this repos, I keep my Data Science projects.
- 
 # Highlights
 
-## Course Google Calendar
+## Google Course Calendar
 
 Here's a highlight of my personal project.  I attended a 6-month IBM Artificial Intelligence course.  We were given the class schedule in a PDF.  It was a hassle for all of us to refer to it.  The class falls on different dates each week and we need to register our attendance via Singpass. So, I took the initiative to create a Google Calendar which **notified** my coursemates when the class begins and provided them the **unique link** to register their attendance. 
 
