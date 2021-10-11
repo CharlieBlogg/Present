@@ -12,7 +12,7 @@ I attended a 6-month IBM Artificial Intelligence course.  We were given the clas
 
 ## IBM Artificial Intelligence (Data Science) Capstone Project
 
-My Data Science Capstone Project was a machine model to predict **Employee Attrition**.  I wrote 2 Python programs. One to clean the data, the other to call the ML model I'd hosted on Azure via APIs. Below are some plots. [Link to code](https://github.com/CharlieBlogg/Present/blob/Reorg-folders/IBM%20AI%20Course%20-%20Codes/Employee%20Attrition%20(webserivce)%20-%20LR.ipynb)
+My Data Science Capstone Project was a machine model to predict **Employee Attrition**.  I wrote 2 Python programs. One to clean the data, the other to call the ML model I'd hosted on Azure via APIs. Below are some plots. [Link to code](https://github.com/CharlieBlogg/Present/tree/main/IBM%20AI%20Course%20-%20Codes)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73152881/136803180-6af272cf-4525-43fb-ac40-60e537104a36.png" alt="drawing" width="680"/>
