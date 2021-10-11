@@ -3,7 +3,7 @@
 
 ## Google Course Calendar
 
-I attended a 6-month IBM Artificial Intelligence course.  We were given the class schedule in a PDF.  It was a hassle for all of us to refer to it. So, I took the initiative to create a Google Calendar to **notify** my coursemates when the class began and provided them the **unique link** to register their attendances. [Link to code](https://github.com/CharlieBlogg/Present/tree/main/Google%20Course%20Calendar)
+I attended a 6-month IBM Artificial Intelligence course.  We were given the class schedule in a PDF.  It was a hassle to refer to it. So, I took the initiative to create a Google Calendar for the class to **notify** them when classes began and provided them the **unique link** to register their attendances. [Link to code](https://github.com/CharlieBlogg/Present/tree/main/Google%20Course%20Calendar)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73152881/136781610-f2f0eeef-7c4b-4b15-9bb1-ca5195cb82da.png" alt="drawing" width="750"/>
